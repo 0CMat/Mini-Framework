@@ -1,0 +1,49 @@
+
+
+/* Classes Específicas */
+
+header ul li{
+    display:inline-block;
+}
+
+
+
+header .topo-site{
+    padding: 20px 0;
+}
+
+.logo{
+    font-size: 22px;
+    font-family: Verdana;
+    margin-top: 9px;
+}
+
+header .topo-site ul li{
+    position: relative;
+    padding: 0 20px;
+    font-size: 17px;
+    display: inline-block;
+}
+
+header a{
+    text-decoration: none;
+    padding: 10px;
+}
+
+.slider{
+    min-height: 450px;
+}
+
+.slider p{
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+    font-size: 30px;
+    display: inline-block;
+    border-bottom: 4px solid white;
+}
+
+.promo{
+    background-color: red;
+    padding: 40px 0;
+}
